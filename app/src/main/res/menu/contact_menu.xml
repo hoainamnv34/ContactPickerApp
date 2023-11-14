@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_call"
+        android:title="Gọi điện"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/menu_send_sms"
+        android:title="Nhắn tin SMS"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/menu_send_email"
+        android:title="Gửi email"
+        app:showAsAction="always"
+        />
+</menu>
